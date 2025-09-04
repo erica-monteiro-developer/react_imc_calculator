@@ -67,4 +67,3 @@ export default tseslint.config([
   },
 ])
 ```
-# react_imc_calculator
